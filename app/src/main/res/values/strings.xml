@@ -1,9 +1,13 @@
 <resources>
     <string name="app_name">validador</string>
     <!-- TODO: Remove or change this placeholder text -->
-    <string name="text1">Hello blank fragment</string>
+    <string name="text1">App validador de password</string>
     <string name="text2">Ingrese su contraseña</string>
     <string name="text3">Ingresar</string>
-    <string name="text4"></string>
-    <string name="text5"></string>
+    <string name="text4">La contraseña debe tener minimo 5 caracteres y una mayuscula</string>
+    <string name="text5">Recuerda que para que la contraseña sea segura debe cumplir con estas caracteristicas</string>
+    <string name="text6">Al menos 5 caracteres</string>
+    <string name="text7">Al menos una mayuscula</string>
+    <string name="text8">Al menos un caracter especial</string>
+    <string name="text9">Al menos un numero</string>
 </resources>
