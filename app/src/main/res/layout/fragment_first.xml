@@ -48,6 +48,7 @@
         app:layout_constraintTop_toBottomOf="@id/pass_input"
         android:layout_marginTop="32dp"
         android:text="@string/text3"
+        android:textColorLink="@color/black"
         android:textColor="@color/white"
         android:background="@drawable/font2"/>
 

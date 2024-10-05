@@ -26,6 +26,8 @@
         android:layout_height="match_parent"
         android:layout_marginTop="32dp"
         app:layout_constraintTop_toBottomOf="@id/topPanel"
-        android:name="com.inforcap.validador.FirstFragment"/>
+        android:name="androidx.navigation.fragment.NavHostFragment"
+        app:navGraph="@navigation/nav_graph"
+        app:defaultNavHost="true"/>
 
 </androidx.constraintlayout.widget.ConstraintLayout>
